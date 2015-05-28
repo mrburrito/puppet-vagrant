@@ -1,0 +1,2 @@
+node 'dev.vm.local' {
+}
